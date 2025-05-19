@@ -1,10 +1,8 @@
 # Sandinos Barn Website 🌱
 
-A fast, accessible, and donation‑ready website for **Sandinos Barn**, a Swedish nonprofitm organization that has empowered children and young people in Nicaragua since **2003** through scholarships, school supplies, and community projects.
+A fast, accessible, and donation‑ready website for **Sandinos Barn**, a Swedish nonprofit organization that has empowered children and young people in Nicaragua since **2003** through scholarships, school supplies, and community projects.
 
-Founded by high‑school students and teachers in Gothenburg, Sweden, the association has operated for more than **20 years**. 100 % of raised funds go directly to program costs on the ground; administration is handled by volunteers in Sweden.
-
-Today Sandinos Barn supports **20+ students per year**, covering tuition fees, uniforms, books, and after‑school tutoring, while also funding small‑scale infrastructure such as classroom refurbishments and clean‑water filters.
+Founded by high‑school students and teachers in Gothenburg, Sweden, the association has operated for more than **20 years**. 100 % of raised funds go directly to program costs on the ground; administration is handled by volunteers in Sweden. Today Sandinos Barn supports **20+ students per year**, covering tuition fees, uniforms, books, and after‑school tutoring.
 
 > _“Education is the passport to the future, for tomorrow belongs to those who prepare for it today.”_
 
